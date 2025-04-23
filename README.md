@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**cehchamp/cehchamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://wokwi.com/projects/421947747385771009
+ldr
+https://wokwi.com/projects/427302301441053697
+LED blinking
+https://wokwi.com/projects/427349289931816961
+Push button
+https://wokwi.com/projects/427836895950980097
+gas sensor
+https://wokwi.com/projects/427201704855902209
+ultra sonic
+https://wokwi.com/projects/426565462379452417
+pir sensor
+https://wokwi.com/projects/421492866390494209
+potenstiometere
+https://wokwi.com/projects/427354375406235649
