@@ -13,3 +13,6 @@ pir sensor
 https://wokwi.com/projects/421492866390494209
 potenstiometere
 https://wokwi.com/projects/427354375406235649
+Temprature
+https://wokwi.com/projects/381409081129653249
+survo motor
